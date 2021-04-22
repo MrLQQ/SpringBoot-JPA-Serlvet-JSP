@@ -14,3 +14,5 @@
 | password | varchar(255) | YES |  | NULL | |
 | type | varchar(255) | YES |  | NULL | |
 | username | varchar(255) | YES |  | NULL | |# SpringBoot-JPA-Serlvet-JSP
+
+修改信息
