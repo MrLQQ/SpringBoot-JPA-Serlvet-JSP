@@ -39,5 +39,6 @@ public class JumpController {
     public String AdminEditPage(@PathVariable String EditId, HttpServletRequest request ){
         request.setAttribute("User", userDAO.Read(EditId,"id"));
         return "edit/AdminEditPage";
+
     }
 }
